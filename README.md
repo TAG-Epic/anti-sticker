@@ -12,3 +12,9 @@ To change the message the bot sends modify line 19 of `main.py` to say the messa
 
 ## Demo
 ![Demo](https://cdn.discordapp.com/attachments/761924508965666816/768533210866122782/2020-10-21_18-10-40.gif)
+
+---
+### Running the bot with docker-compose
+
+- Firstly, rename `docker-compose.yml.example` to `docker-compose.yml`
+- Next, change the value of `token` in that file from `YOUR_BOT_TOKEN` TO whatever your Discord bot token is. If you don't know how to create a bot, see: [this guide](https://discordpy.readthedocs.io/en/latest/discord.html)
