@@ -8,5 +8,7 @@ In order for this bot to work, the bot requires the following permissions in all
 - `READ_MESSAGES`
 - `SEND_MESSAGES`
 
+To change the message the bot sends modify line 19 of `main.py` to say the message you wish to send.
+
 ## Demo
 ![Demo](https://cdn.discordapp.com/attachments/761924508965666816/768533210866122782/2020-10-21_18-10-40.gif)
