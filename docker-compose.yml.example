@@ -5,4 +5,4 @@ services:
     build: .
     restart: always
     environment:
-      token: YOUR_DISCORD_TOKEN
+      token: YOUR_BOT_TOKEN
